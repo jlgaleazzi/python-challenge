@@ -1,0 +1,5 @@
+total Months : 86
+total Profit 38382578
+average profit/loss -2315.1176470588234
+Greatest Increase in Profits Feb-12 : 1926159
+Greatest Decrease in Profits Sep-13 : -2196167
